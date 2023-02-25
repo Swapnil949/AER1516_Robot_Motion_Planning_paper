@@ -1,5 +1,8 @@
 # AER1516_Robot_Motion_Planning_paper
 
+## Implementation
+Our implementation of algorithm proposed in [[1]](#1) is presented in [iql.ipynb](./iql.ipynb).
+
 ## References
 <a id="1">[1]</a> 
 A. Konar, I. Goswami Chakraborty, S. J. Singh, L. C. Jain and A. K. Nagar, "A Deterministic Improved Q-Learning for Path Planning of a Mobile Robot," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 43, no. 5, pp. 1141-1153, Sept. 2013, doi: 10.1109/TSMCA.2012.2227719.
