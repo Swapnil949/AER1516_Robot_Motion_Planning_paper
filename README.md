@@ -4,7 +4,11 @@
 ### Q-Learning
 ### Improved Q-Learning
 Our implementation of algorithm proposed in [[1]](#1) is presented in [iql.ipynb](./iql.ipynb).
-![](./q.png)![](./path.png)
+
+
+Q Table      | Path Planning
+:-----------:|:-------------:
+![](./q.png) |![](./path.png)
 
 ## References
 <a id="1">[1]</a> 
