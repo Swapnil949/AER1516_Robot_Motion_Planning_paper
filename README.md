@@ -4,9 +4,9 @@
 ### Q-Learning
 Our implementation of classical Q-Learning using OpenAI Gym is presented in [cql.py](./cql.py).
 
-Learning            | Path
-:------------------:|:--------------------:
-![](./images/q.png) |![](./images/path.png)
+Learning                   | Path
+:-------------------------:|:--------------------:
+![](./images/learning.gif) |![](./images/path.gif)
 
 
 ### Improved Q-Learning
