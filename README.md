@@ -2,9 +2,15 @@
 
 ## Implementation
 ### Q-Learning
+Our implementation of classical Q-Learning using OpenAI Gym is presented in [cql.py](./cql.py).
+
+Learning            | Path
+:------------------:|:--------------------:
+![](./images/q.png) |![](./images/path.png)
+
+
 ### Improved Q-Learning
 Our implementation of algorithm proposed in [[1]](#1) is presented in [iql.ipynb](./iql.ipynb).
-
 
 Q Table             | Path Planning
 :------------------:|:--------------------:
