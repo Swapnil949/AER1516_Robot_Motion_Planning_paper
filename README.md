@@ -6,9 +6,9 @@
 Our implementation of algorithm proposed in [[1]](#1) is presented in [iql.ipynb](./iql.ipynb).
 
 
-Q Table      | Path Planning
-:-----------:|:-------------:
-![](./q.png) |![](./path.png)
+Q Table             | Path Planning
+:------------------:|:--------------------:
+![](./images/q.png) |![](./images/path.png)
 
 ## References
 <a id="1">[1]</a> 
